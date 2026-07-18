@@ -171,9 +171,7 @@ A modern web project focused on connecting users and creating a smooth digital e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ammarmotan&show_icons=true&theme=radical" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarmotan&layout=compact&theme=radical" width="48%" />
+![Ammar's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ammarmotan&theme=github-compact)
 
 </div>
 
