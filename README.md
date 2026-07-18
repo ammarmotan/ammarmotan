@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Ammar Motan 👋</h1>
 
-<h3 align="center">Full-Stack Developer | Laravel & Angular Enthusiast | Building clean, scalable web apps</h3>
+<h3 align="center">Full-Stack Developer | PHP & MERN Developer | Building clean, scalable web apps</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ammar-motan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ammarmotan1999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -17,9 +17,9 @@
 
 I'm a passionate **Front-End and Back-End Developer** with hands-on experience building web applications using modern tools and frameworks. I love turning ideas into clean, functional, and user-friendly products.
 
-- 🔭 Currently working on personal & client projects using **Laravel** and **Angular**
+- 🔭 Currently working on personal & client projects using **PHP** and **MERN**
 - 🌱 Constantly learning new tools and best practices in web development
-- 💬 Ask me about **HTML, CSS, JavaScript, Angular, PHP, MySQL, Laravel**
+- 💬 Ask me about **HTML, CSS, JavaScript, MERN, PHP, MySQL, .Dot Net**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/ammar-motan)
 - ⚡ Fun fact: I enjoy building things that make everyday tasks easier
 
