@@ -171,25 +171,15 @@ A modern web project focused on connecting users and creating a smooth digital e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ammarmotan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ammarmotan&show_icons=true&theme=radical" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ammarmotan&hide_border=true&background=0d1117&ring=22c55e&fire=0ea5e9&currStreakLabel=22c55e" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarmotan&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarmotan&layout=compact&theme=radical" width="48%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Journey
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ammarmotan/ammarmotan/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 
